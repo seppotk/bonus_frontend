@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb1cd6a4.chunk.css",
-    "main.js": "/static/js/main.35ed62b5.chunk.js",
-    "main.js.map": "/static/js/main.35ed62b5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bce919bb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bce919bb.js.map",
-    "static/js/2.493e2401.chunk.js": "/static/js/2.493e2401.chunk.js",
-    "static/js/2.493e2401.chunk.js.map": "/static/js/2.493e2401.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.81c398555c163879c794492491182c66.js": "/precache-manifest.81c398555c163879c794492491182c66.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bb1cd6a4.chunk.css.map": "/static/css/main.bb1cd6a4.chunk.css.map",
-    "static/js/2.493e2401.chunk.js.LICENSE.txt": "/static/js/2.493e2401.chunk.js.LICENSE.txt"
+    "main.css": "/seppotk/bonus_frontend.git/static/css/main.bb1cd6a4.chunk.css",
+    "main.js": "/seppotk/bonus_frontend.git/static/js/main.d93c5b0e.chunk.js",
+    "main.js.map": "/seppotk/bonus_frontend.git/static/js/main.d93c5b0e.chunk.js.map",
+    "runtime-main.js": "/seppotk/bonus_frontend.git/static/js/runtime-main.bdc8013e.js",
+    "runtime-main.js.map": "/seppotk/bonus_frontend.git/static/js/runtime-main.bdc8013e.js.map",
+    "static/js/2.493e2401.chunk.js": "/seppotk/bonus_frontend.git/static/js/2.493e2401.chunk.js",
+    "static/js/2.493e2401.chunk.js.map": "/seppotk/bonus_frontend.git/static/js/2.493e2401.chunk.js.map",
+    "index.html": "/seppotk/bonus_frontend.git/index.html",
+    "precache-manifest.0973ec4f55e21f5d35919e7714af63ae.js": "/seppotk/bonus_frontend.git/precache-manifest.0973ec4f55e21f5d35919e7714af63ae.js",
+    "service-worker.js": "/seppotk/bonus_frontend.git/service-worker.js",
+    "static/css/main.bb1cd6a4.chunk.css.map": "/seppotk/bonus_frontend.git/static/css/main.bb1cd6a4.chunk.css.map",
+    "static/js/2.493e2401.chunk.js.LICENSE.txt": "/seppotk/bonus_frontend.git/static/js/2.493e2401.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bce919bb.js",
+    "static/js/runtime-main.bdc8013e.js",
     "static/js/2.493e2401.chunk.js",
     "static/css/main.bb1cd6a4.chunk.css",
-    "static/js/main.35ed62b5.chunk.js"
+    "static/js/main.d93c5b0e.chunk.js"
   ]
 }
