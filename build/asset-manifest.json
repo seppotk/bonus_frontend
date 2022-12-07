@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seppotk/bonus_frontend.git/static/css/main.b701c566.css",
+    "main.js": "/seppotk/bonus_frontend.git/static/js/main.ea97f9cc.js",
+    "index.html": "/seppotk/bonus_frontend.git/index.html",
+    "main.b701c566.css.map": "/seppotk/bonus_frontend.git/static/css/main.b701c566.css.map",
+    "main.ea97f9cc.js.map": "/seppotk/bonus_frontend.git/static/js/main.ea97f9cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b701c566.css",
+    "static/js/main.ea97f9cc.js"
+  ]
+}
