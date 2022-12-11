@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "proxy": "https://bonus-backend.onrender.com",
-  "homepage": "https://github.com/seppotk/bonus_frontend.git",
+  "homepage": "https://seppotk.github.io/bonus_frontend/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
